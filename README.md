@@ -15,6 +15,6 @@ Explain the risks and provide prevention guideline for users
 - Document editor - (Canva doc converted to PDF)
 
 
-## Disclaimer & Credit
+## Disclaimer 
 This task is conducted for educational purposes only.
-The samples 
+
