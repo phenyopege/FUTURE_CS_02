@@ -1,5 +1,5 @@
 # FUTURE_CS_02 - Phishing Email Detection & Awareness System
-**Future Interns - Cyber Security Task 2**
+# Future Interns - Cyber Security Task 2
 
 
 ## Objective 
@@ -15,5 +15,6 @@ Explain the risks and provide prevention guideline for users
 - Document editor - (Canva doc converted to PDF)
 
 
-## Disclaimer
+## Disclaimer & Credit
 This task is conducted for educational purposes only.
+The samples 
